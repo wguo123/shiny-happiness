@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# This page is created for Angelina Guo
+
+This instruction helps you build your own website!
 
 You can use the [editor on GitHub](https://github.com/wguo123/shiny-happiness/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
